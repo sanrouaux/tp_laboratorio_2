@@ -11,3 +11,16 @@ C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesInstanciables\bin\Debug\Excepcione
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesInstanciables\bin\Debug\Excepciones.pdb
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesInstanciables\bin\Debug\Archivos.dll
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\obj\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesInstanciables\obj\Debug\Entidades.pdb

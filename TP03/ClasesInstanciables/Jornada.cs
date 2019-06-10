@@ -78,7 +78,7 @@ namespace ClasesInstanciables
         }
 
         /// <summary>
-        /// Determina si un alumno forma parte de una jornada
+        /// Determina si un alumno participa de la clase de la jornada
         /// </summary>
         /// <param name="j">Jornada</param>
         /// <param name="a">Alumno</param>
@@ -96,7 +96,7 @@ namespace ClasesInstanciables
         }
 
         /// <summary>
-        /// Determina si un alumno NO forma parte de una jornada
+        /// Determina si un alumno NO participa de la clase de la jornada
         /// </summary>
         /// <param name="j">Jornada</param>
         /// <param name="a">Alumno</param>
@@ -116,7 +116,16 @@ namespace ClasesInstanciables
         {
             if (j == a)
             {
-                if (!j.alumnos.Contains(a))
+                bool presente = false;
+                foreach(Alumno auxA in j.alumnos)
+                {
+                    if(auxA == a)
+                    {                        
+                        presente = true;
+                        break;
+                    }
+                }
+                if(!(presente == true))
                 {
                     j.alumnos.Add(a);
                 }
