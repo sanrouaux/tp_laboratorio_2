@@ -4,3 +4,9 @@ C:\Users\sanro\OneDrive\Escritorio\TP03\Excepciones\obj\Debug\Excepciones.csproj
 C:\Users\sanro\OneDrive\Escritorio\TP03\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\sanro\OneDrive\Escritorio\TP03\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\sanro\OneDrive\Escritorio\TP03\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Excepciones\obj\Debug\Excepciones.pdb

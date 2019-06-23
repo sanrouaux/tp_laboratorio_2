@@ -7,3 +7,12 @@ C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesAbstractas\obj\Debug\ClasesAbstrac
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesAbstractas\bin\Debug\Excepciones.dll
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesAbstractas\bin\Debug\Excepciones.pdb
 C:\Users\sanro\OneDrive\Escritorio\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

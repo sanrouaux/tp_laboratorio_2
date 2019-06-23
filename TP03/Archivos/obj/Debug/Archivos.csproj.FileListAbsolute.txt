@@ -7,3 +7,12 @@ C:\Users\sanro\OneDrive\Escritorio\TP03\Archivos\obj\Debug\Archivos.pdb
 C:\Users\sanro\OneDrive\Escritorio\TP03\Archivos\bin\Debug\Excepciones.dll
 C:\Users\sanro\OneDrive\Escritorio\TP03\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\sanro\OneDrive\Escritorio\TP03\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\bin\Debug\Archivos.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\bin\Debug\Excepciones.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\obj\Debug\Archivos.dll
+C:\Users\sanro\OneDrive\Escritorio\tp_laboratorio_2\TP03\Archivos\obj\Debug\Archivos.pdb
