@@ -1,0 +1,7 @@
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.pdb
