@@ -19,7 +19,10 @@ namespace Entidades_2018
         /// </summary>
         public enum ETipo
         {
-            Dulce, Leche, Snacks, Todos
+            Dulce,
+            Leche,
+            Snacks,
+            Todos
         }
 
         #region "Constructores"
@@ -30,6 +33,7 @@ namespace Entidades_2018
         {
             this.productos = new List<Producto>();
         }
+
         /// <summary>
         /// Crea una instancia de la clase Changuito
         /// </summary>
@@ -96,7 +100,6 @@ namespace Entidades_2018
                         break;
                 }
             }
-
             return sb.ToString();
         }
         #endregion

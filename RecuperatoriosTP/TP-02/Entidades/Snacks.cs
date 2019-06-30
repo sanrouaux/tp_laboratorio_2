@@ -14,8 +14,8 @@ namespace Entidades_2018
         /// <param name="marca">Marca del Snack</param>
         /// <param name="patente">Código de barras del Snack</param>
         /// <param name="color">Color de empaque del Snack</param>
-        public Snacks(EMarca marca, string patente, ConsoleColor color)
-            : base(patente, marca, color)
+        public Snacks(EMarca marca, string codigo, ConsoleColor color)
+            : base(codigo, marca, color)
         {
         }
 
@@ -41,7 +41,7 @@ namespace Entidades_2018
 
             sb.AppendLine("SNACKS");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("CALORIAS : " + this.CantidadCalorias);
+            sb.AppendLine("CALORIAS : " + this.CantidadCalorias.ToString());
             sb.AppendLine("---------------------");
 
             return sb.ToString();

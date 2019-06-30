@@ -16,7 +16,12 @@ namespace Entidades_2018
         /// </summary>
        public enum EMarca
         {
-            Serenisima, Campagnola, Arcor, Ilolay, Sancor, Pepsico
+            Serenisima,
+            Campagnola,
+            Arcor,
+            Ilolay,
+            Sancor,
+            Pepsico
         }
 
         private EMarca marca;
